@@ -1,0 +1,127 @@
+[
+{
+  "directory": "/Users/dimansp/work/calc_task/build",
+  "command": "/usr/bin/clang++  -I/Users/dimansp/work/calc_task/src -I/Users/dimansp/work/calc_task/3party/gtest/include -I/Users/dimansp/work/calc_task/3party/gmock/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=c++17 -Wall -o CMakeFiles/tests.dir/src/tests/test_main.cpp.o -c /Users/dimansp/work/calc_task/src/tests/test_main.cpp",
+  "file": "/Users/dimansp/work/calc_task/src/tests/test_main.cpp"
+},
+{
+  "directory": "/Users/dimansp/work/calc_task/build",
+  "command": "/usr/bin/clang++  -I/Users/dimansp/work/calc_task/src -I/Users/dimansp/work/calc_task/3party/gtest/include -I/Users/dimansp/work/calc_task/3party/gmock/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=c++17 -Wall -o CMakeFiles/tests.dir/src/tests/spreadsheet_tests.cpp.o -c /Users/dimansp/work/calc_task/src/tests/spreadsheet_tests.cpp",
+  "file": "/Users/dimansp/work/calc_task/src/tests/spreadsheet_tests.cpp"
+},
+{
+  "directory": "/Users/dimansp/work/calc_task/build",
+  "command": "/usr/bin/clang++  -I/Users/dimansp/work/calc_task/src -I/Users/dimansp/work/calc_task/3party/gtest/include -I/Users/dimansp/work/calc_task/3party/gmock/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=c++17 -Wall -o CMakeFiles/tests.dir/src/tests/cells_map_tests.cpp.o -c /Users/dimansp/work/calc_task/src/tests/cells_map_tests.cpp",
+  "file": "/Users/dimansp/work/calc_task/src/tests/cells_map_tests.cpp"
+},
+{
+  "directory": "/Users/dimansp/work/calc_task/build",
+  "command": "/usr/bin/clang++  -I/Users/dimansp/work/calc_task/src -I/Users/dimansp/work/calc_task/3party/gtest/include -I/Users/dimansp/work/calc_task/3party/gmock/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=c++17 -Wall -o CMakeFiles/tests.dir/src/tests/helpers_tests.cpp.o -c /Users/dimansp/work/calc_task/src/tests/helpers_tests.cpp",
+  "file": "/Users/dimansp/work/calc_task/src/tests/helpers_tests.cpp"
+},
+{
+  "directory": "/Users/dimansp/work/calc_task/build",
+  "command": "/usr/bin/clang++  -I/Users/dimansp/work/calc_task/src -I/Users/dimansp/work/calc_task/3party/gtest/include -I/Users/dimansp/work/calc_task/3party/gmock/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=c++17 -Wall -o CMakeFiles/tests.dir/src/app/spreadsheet.cpp.o -c /Users/dimansp/work/calc_task/src/app/spreadsheet.cpp",
+  "file": "/Users/dimansp/work/calc_task/src/app/spreadsheet.cpp"
+},
+{
+  "directory": "/Users/dimansp/work/calc_task/build",
+  "command": "/usr/bin/clang++  -I/Users/dimansp/work/calc_task/src -I/Users/dimansp/work/calc_task/3party/gtest/include -I/Users/dimansp/work/calc_task/3party/gmock/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=c++17 -Wall -o CMakeFiles/tests.dir/src/app/spreadsheet_loader.cpp.o -c /Users/dimansp/work/calc_task/src/app/spreadsheet_loader.cpp",
+  "file": "/Users/dimansp/work/calc_task/src/app/spreadsheet_loader.cpp"
+},
+{
+  "directory": "/Users/dimansp/work/calc_task/build",
+  "command": "/usr/bin/clang++  -I/Users/dimansp/work/calc_task/src -I/Users/dimansp/work/calc_task/3party/gtest/include -I/Users/dimansp/work/calc_task/3party/gmock/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=c++17 -Wall -o CMakeFiles/tests.dir/src/app/helpers.cpp.o -c /Users/dimansp/work/calc_task/src/app/helpers.cpp",
+  "file": "/Users/dimansp/work/calc_task/src/app/helpers.cpp"
+},
+{
+  "directory": "/Users/dimansp/work/calc_task/build",
+  "command": "/usr/bin/clang++  -I/Users/dimansp/work/calc_task/src -I/Users/dimansp/work/calc_task/3party/gtest/include -I/Users/dimansp/work/calc_task/3party/gmock/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=c++17 -Wall -o CMakeFiles/tests.dir/src/app/thread_pool.cpp.o -c /Users/dimansp/work/calc_task/src/app/thread_pool.cpp",
+  "file": "/Users/dimansp/work/calc_task/src/app/thread_pool.cpp"
+},
+{
+  "directory": "/Users/dimansp/work/calc_task/build",
+  "command": "/usr/bin/clang++  -I/Users/dimansp/work/calc_task/src -I/Users/dimansp/work/calc_task/3party/gtest/include -I/Users/dimansp/work/calc_task/3party/gmock/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=c++17 -Wall -o CMakeFiles/tests.dir/src/app/cell_changer.cpp.o -c /Users/dimansp/work/calc_task/src/app/cell_changer.cpp",
+  "file": "/Users/dimansp/work/calc_task/src/app/cell_changer.cpp"
+},
+{
+  "directory": "/Users/dimansp/work/calc_task/build",
+  "command": "/usr/bin/clang++  -I/Users/dimansp/work/calc_task/src -I/Users/dimansp/work/calc_task/3party/gtest/include -I/Users/dimansp/work/calc_task/3party/gmock/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=c++17 -Wall -o CMakeFiles/tests.dir/src/app/cells_map.cpp.o -c /Users/dimansp/work/calc_task/src/app/cells_map.cpp",
+  "file": "/Users/dimansp/work/calc_task/src/app/cells_map.cpp"
+},
+{
+  "directory": "/Users/dimansp/work/calc_task/build",
+  "command": "/usr/bin/clang++  -I/Users/dimansp/work/calc_task/src -I/Users/dimansp/work/calc_task/3party/gtest/include -I/Users/dimansp/work/calc_task/3party/gmock/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=c++17 -Wall -o CMakeFiles/tests.dir/src/app/formula/parser.cpp.o -c /Users/dimansp/work/calc_task/src/app/formula/parser.cpp",
+  "file": "/Users/dimansp/work/calc_task/src/app/formula/parser.cpp"
+},
+{
+  "directory": "/Users/dimansp/work/calc_task/build",
+  "command": "/usr/bin/clang++  -I/Users/dimansp/work/calc_task/src -I/Users/dimansp/work/calc_task/3party/gtest/include -I/Users/dimansp/work/calc_task/3party/gmock/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=c++17 -Wall -o CMakeFiles/tests.dir/src/app/formula/cell_value.cpp.o -c /Users/dimansp/work/calc_task/src/app/formula/cell_value.cpp",
+  "file": "/Users/dimansp/work/calc_task/src/app/formula/cell_value.cpp"
+},
+{
+  "directory": "/Users/dimansp/work/calc_task/build",
+  "command": "/usr/bin/clang++  -I/Users/dimansp/work/calc_task/src -I/Users/dimansp/work/calc_task/3party/gtest/include -I/Users/dimansp/work/calc_task/3party/gmock/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=c++17 -Wall -o CMakeFiles/tests.dir/src/app/formula/cell_proxy.cpp.o -c /Users/dimansp/work/calc_task/src/app/formula/cell_proxy.cpp",
+  "file": "/Users/dimansp/work/calc_task/src/app/formula/cell_proxy.cpp"
+},
+{
+  "directory": "/Users/dimansp/work/calc_task/build",
+  "command": "/usr/bin/clang++  -I/Users/dimansp/work/calc_task/src -I/Users/dimansp/work/calc_task/3party/gtest/include -I/Users/dimansp/work/calc_task/3party/gmock/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=c++17 -Wall -o CMakeFiles/tests.dir/src/app/formula/core_elements.cpp.o -c /Users/dimansp/work/calc_task/src/app/formula/core_elements.cpp",
+  "file": "/Users/dimansp/work/calc_task/src/app/formula/core_elements.cpp"
+},
+{
+  "directory": "/Users/dimansp/work/calc_task/build",
+  "command": "/usr/bin/clang++  -I/Users/dimansp/work/calc_task/src -I/Users/dimansp/work/calc_task/3party/gtest/include -I/Users/dimansp/work/calc_task/3party/gmock/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=c++17 -Wall -o CMakeFiles/task_app.dir/src/app/main.cpp.o -c /Users/dimansp/work/calc_task/src/app/main.cpp",
+  "file": "/Users/dimansp/work/calc_task/src/app/main.cpp"
+},
+{
+  "directory": "/Users/dimansp/work/calc_task/build",
+  "command": "/usr/bin/clang++  -I/Users/dimansp/work/calc_task/src -I/Users/dimansp/work/calc_task/3party/gtest/include -I/Users/dimansp/work/calc_task/3party/gmock/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=c++17 -Wall -o CMakeFiles/task_app.dir/src/app/spreadsheet.cpp.o -c /Users/dimansp/work/calc_task/src/app/spreadsheet.cpp",
+  "file": "/Users/dimansp/work/calc_task/src/app/spreadsheet.cpp"
+},
+{
+  "directory": "/Users/dimansp/work/calc_task/build",
+  "command": "/usr/bin/clang++  -I/Users/dimansp/work/calc_task/src -I/Users/dimansp/work/calc_task/3party/gtest/include -I/Users/dimansp/work/calc_task/3party/gmock/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=c++17 -Wall -o CMakeFiles/task_app.dir/src/app/spreadsheet_loader.cpp.o -c /Users/dimansp/work/calc_task/src/app/spreadsheet_loader.cpp",
+  "file": "/Users/dimansp/work/calc_task/src/app/spreadsheet_loader.cpp"
+},
+{
+  "directory": "/Users/dimansp/work/calc_task/build",
+  "command": "/usr/bin/clang++  -I/Users/dimansp/work/calc_task/src -I/Users/dimansp/work/calc_task/3party/gtest/include -I/Users/dimansp/work/calc_task/3party/gmock/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=c++17 -Wall -o CMakeFiles/task_app.dir/src/app/helpers.cpp.o -c /Users/dimansp/work/calc_task/src/app/helpers.cpp",
+  "file": "/Users/dimansp/work/calc_task/src/app/helpers.cpp"
+},
+{
+  "directory": "/Users/dimansp/work/calc_task/build",
+  "command": "/usr/bin/clang++  -I/Users/dimansp/work/calc_task/src -I/Users/dimansp/work/calc_task/3party/gtest/include -I/Users/dimansp/work/calc_task/3party/gmock/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=c++17 -Wall -o CMakeFiles/task_app.dir/src/app/thread_pool.cpp.o -c /Users/dimansp/work/calc_task/src/app/thread_pool.cpp",
+  "file": "/Users/dimansp/work/calc_task/src/app/thread_pool.cpp"
+},
+{
+  "directory": "/Users/dimansp/work/calc_task/build",
+  "command": "/usr/bin/clang++  -I/Users/dimansp/work/calc_task/src -I/Users/dimansp/work/calc_task/3party/gtest/include -I/Users/dimansp/work/calc_task/3party/gmock/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=c++17 -Wall -o CMakeFiles/task_app.dir/src/app/cell_changer.cpp.o -c /Users/dimansp/work/calc_task/src/app/cell_changer.cpp",
+  "file": "/Users/dimansp/work/calc_task/src/app/cell_changer.cpp"
+},
+{
+  "directory": "/Users/dimansp/work/calc_task/build",
+  "command": "/usr/bin/clang++  -I/Users/dimansp/work/calc_task/src -I/Users/dimansp/work/calc_task/3party/gtest/include -I/Users/dimansp/work/calc_task/3party/gmock/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=c++17 -Wall -o CMakeFiles/task_app.dir/src/app/cells_map.cpp.o -c /Users/dimansp/work/calc_task/src/app/cells_map.cpp",
+  "file": "/Users/dimansp/work/calc_task/src/app/cells_map.cpp"
+},
+{
+  "directory": "/Users/dimansp/work/calc_task/build",
+  "command": "/usr/bin/clang++  -I/Users/dimansp/work/calc_task/src -I/Users/dimansp/work/calc_task/3party/gtest/include -I/Users/dimansp/work/calc_task/3party/gmock/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=c++17 -Wall -o CMakeFiles/task_app.dir/src/app/formula/parser.cpp.o -c /Users/dimansp/work/calc_task/src/app/formula/parser.cpp",
+  "file": "/Users/dimansp/work/calc_task/src/app/formula/parser.cpp"
+},
+{
+  "directory": "/Users/dimansp/work/calc_task/build",
+  "command": "/usr/bin/clang++  -I/Users/dimansp/work/calc_task/src -I/Users/dimansp/work/calc_task/3party/gtest/include -I/Users/dimansp/work/calc_task/3party/gmock/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=c++17 -Wall -o CMakeFiles/task_app.dir/src/app/formula/cell_value.cpp.o -c /Users/dimansp/work/calc_task/src/app/formula/cell_value.cpp",
+  "file": "/Users/dimansp/work/calc_task/src/app/formula/cell_value.cpp"
+},
+{
+  "directory": "/Users/dimansp/work/calc_task/build",
+  "command": "/usr/bin/clang++  -I/Users/dimansp/work/calc_task/src -I/Users/dimansp/work/calc_task/3party/gtest/include -I/Users/dimansp/work/calc_task/3party/gmock/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=c++17 -Wall -o CMakeFiles/task_app.dir/src/app/formula/cell_proxy.cpp.o -c /Users/dimansp/work/calc_task/src/app/formula/cell_proxy.cpp",
+  "file": "/Users/dimansp/work/calc_task/src/app/formula/cell_proxy.cpp"
+},
+{
+  "directory": "/Users/dimansp/work/calc_task/build",
+  "command": "/usr/bin/clang++  -I/Users/dimansp/work/calc_task/src -I/Users/dimansp/work/calc_task/3party/gtest/include -I/Users/dimansp/work/calc_task/3party/gmock/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=c++17 -Wall -o CMakeFiles/task_app.dir/src/app/formula/core_elements.cpp.o -c /Users/dimansp/work/calc_task/src/app/formula/core_elements.cpp",
+  "file": "/Users/dimansp/work/calc_task/src/app/formula/core_elements.cpp"
+}
+]

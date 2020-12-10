@@ -1,0 +1,4 @@
+/Users/dimansp/work/calc_task/build/CMakeFiles/rebuild_cache.dir
+/Users/dimansp/work/calc_task/build/CMakeFiles/edit_cache.dir
+/Users/dimansp/work/calc_task/build/CMakeFiles/tests.dir
+/Users/dimansp/work/calc_task/build/CMakeFiles/task_app.dir
